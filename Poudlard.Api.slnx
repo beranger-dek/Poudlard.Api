@@ -1,0 +1,11 @@
+<Solution>
+  <Folder Name="/01 Database/">
+    <Project Path="Poudlard/Poudlard.Database.sqlproj">
+      <Build />
+      <Deploy />
+    </Project>
+  </Folder>
+  <Folder Name="/03 Api/">
+    <Project Path="Poudlard.Api/Poudlard.Api.csproj" />
+  </Folder>
+</Solution>
